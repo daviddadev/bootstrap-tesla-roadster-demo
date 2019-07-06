@@ -1,4 +1,4 @@
-![screenshot]()
+![]()
 
 # Welcome to DavidDaDev GitHub Page
 
